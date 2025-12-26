@@ -1,0 +1,1 @@
+Refined site: human-style classes, red-black theme, simple CSS, squared corners. Open index.html to view.
